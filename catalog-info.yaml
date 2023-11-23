@@ -1,0 +1,53 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  iD: "4"
+  name: "MediaCoreService"
+  description: "\"A service to implement Local Storage/USB/IAP2/MTP/BTIAP2/ CarPlay/AndroidAuto/CarLife/Alexa media sources audio playback.  Support Local Storage/USB/MTP sources video playback and image browser.  Support global search.\""
+  version: "platform-t-mainline"
+  status: "Active"
+  la: "Media MediaPlayer"
+  responsible: {"name":"Li, Xi ; Lappa","email":"Xi.Li@harman.com"}
+  architects: {"name":"Wang, Yong","email":"Yong.Wang@harman.com"}
+  last_review_date: 
+  asil: "ASIL QM"
+  permissions: "Restricted"
+  price: {"currency":"USD","amount":"40"}
+  usage: ["Titan Space4 Audi HCP3 TML BJEV FCA R1"]
+  license: "perpetual license"
+  artifact: "APK"
+  layer: "Middleware"
+  Domain: "Media"
+  environment: "Embedded"
+  requirements: ["https://alm.harman.com/rm/resources/bc9a6ab2-4d79-4367-9d45-8c75e2a1d81f?oslc_config.context=https%3A%2F%2Falm.harman.com%2Fgc%2Fconfiguration%2F1696"]
+  designdocuments: ["EA document path https://subversion.harman.com/svn/digital-cockpit-ea","Node path to HDD /Digital Cockpit/Titan IVI/TITAN DOMAINS/Media/HDD/MediaCoreService/HDD - Android S&T","Node path to CDD /Digital Cockpit/Titan IVI/TITAN DOMAINS/Media/CDD/MediaCoreService - Android S&T"]
+  subcomponents: ["LocalPlayer","IAP2Player","CarPlayPlayer","AndrodAutoPlayer","CarLifePlayer","OnlineStreamingPlayer","MediaContentProvider"]
+  releasenotes: ["https://androidhub.harman.com/q/project:harman/packages/MediaCoreService+status:merged+branch:platform-t-mainline+"]
+  resourceutilization: ["https://confluence.harman.com/confluence/pages/viewpage.action?pageId=192458850"]
+  interface: ["https://confluence.harman.com/confluence/pages/viewpage.action?pageId=192458850"]
+  interfaceconsumed: ["\"harman.iap2 harman.aap harman.carplay harman.onlineplayer HarmanUsbHandlerManager Hlog MediaModeManager OnlinePlayer HarmanAudioManager\""]
+  runtimedependencies: ["\"IAP2Service AndroidAutoApp CarPlayApp HarmanUsbService MediaModeService HarmanAudioService\""]
+  buildtimedependencies: ["\"harman.iap2 harman.aap harman.carplay harman.onlineplayer HarmanUsbHandlerManager Hlog MediaModeManager OnlinePlayer HarmanAudioManager\""]
+  repositories: ["https://androidhub.harman.com/admin/repos/harman/packages/MediaCoreService,general"]
+  foss: []
+  supportedos: ["Android"]
+  buildinstructions: ["make MediaCoreService"]
+  origin: []
+  activity: "https://androidhub.harman.com/q/project:harman/packages/MediaCoreService+status:merged+branch:platform-t-mainline+"
+  vulnerabilities: ["https://codesonar-preintegration-idc.harman.com:7340/project/756.html"]
+  codelanguage: "Java"
+  i18n: "en ar de es ja ko ro ru w820dp zh-rCN zh-rHK zh-rTW"
+  testcode: ["https://ss-t.harman.com/xref/platform-t/Android/vendor/harman/packages/MediaCoreService/harmanmediaservice/src/test/"]
+  testdocumentations: ["https://artifactory-mb.harman.com/artifactory/Titan/precheck/platform-s/platform_s_precheck_pipeline/AudiGLToTitanMainline_S/7392/"]
+  forking: "Not Allowed"
+  annotations:
+    bitbuckettest.harman.com/project-slug: undefined/MediaCoreService
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: software
+  lifecycle: onboard
+  owner: "group:default/connectivity"
+  dependsOn:
+    - component:NULL
+    - component:NULL
+  subcomponentOf: component:NULL
