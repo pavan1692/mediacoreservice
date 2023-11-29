@@ -46,7 +46,7 @@ metadata:
 spec:
   type: software
   lifecycle: onboard
-  owner: "group:default/connectivity"
+  owner: "group:default/media"
   dependsOn:
     - component:NULL
     - component:NULL
