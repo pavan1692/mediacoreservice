@@ -43,7 +43,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Description:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; ">"A service to implement Local Storage/USB/IAP2/MTP/BTIAP2/ CarPlay/AndroidAuto/CarLife/Alexa media sources audio playback.  Support Local Storage/USB/MTP sources video playback and image browser.  Support global search."</span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; ">A service to implement Local Storage/USB/IAP2/MTP/BTIAP2/ CarPlay/AndroidAuto/CarLife/Alexa media sources audio playback.  Support Local Storage/USB/MTP sources video playback and image browser.  Support global search.</span>
 
 </div>
 
