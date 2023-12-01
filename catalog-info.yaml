@@ -3,7 +3,7 @@ kind: Component
 metadata:
   iD: "4"
   name: "MediaCoreService"
-  description: "\"A service to implement Local Storage/USB/IAP2/MTP/BTIAP2/ CarPlay/AndroidAuto/CarLife/Alexa media sources audio playback.  Support Local Storage/USB/MTP sources video playback and image browser.  Support global search.\""
+  description: "\A service to implement Local Storage/USB/IAP2/MTP/BTIAP2/ CarPlay/AndroidAuto/CarLife/Alexa media sources audio playback.  Support Local Storage/USB/MTP sources video playback and image browser.  Support global search.\"
   version: "platform-t-mainline"
   status: "Active"
   la: "Media MediaPlayer"
