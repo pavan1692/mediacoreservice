@@ -44,8 +44,8 @@ metadata:
     bitbuckettest.harman.com/project-slug: undefined/MediaCoreService
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: software
-  lifecycle: onboard
+  type: Software
+  lifecycle: Onboard
   owner: "group:default/media"
   dependsOn:
     - component:NULL
