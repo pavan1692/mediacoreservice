@@ -48,6 +48,6 @@ spec:
   lifecycle: Onboard
   owner: "group:default/media"
   dependsOn:
-    - component:NULL
+    - component:MediaModeService
     - component:NULL
   subcomponentOf: component:NULL
