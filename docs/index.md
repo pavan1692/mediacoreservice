@@ -268,7 +268,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Design Documents:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="EA document path https://subversion.harman.com/svn/digital-cockpit-ea,Node path to HDD /Digital Cockpit/Titan IVI/TITAN DOMAINS/Media/HDD/MediaCoreService/HDD - Android S&T,Node path to CDD /Digital Cockpit/Titan IVI/TITAN DOMAINS/Media/CDD/MediaCoreService - Android S&T" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="EA document path https://subversion.harman.com/svn/digital-cockpit-ea,Node path to HDD /Digital Cockpit/Titan IVI/TITAN DOMAINS/Media/HDD/MediaCoreService/HDD - Android S&T,Node path to CDD /Digital Cockpit/Titan IVI/TITAN DOMAINS/Media/CDD/MediaCoreService - Android S&T" style="color: #0077b5;">EA document path https://subversion.harman.com/svn/digital-cockpit-ea,Node path to HDD /Digital Cockpit/Titan IVI/TITAN DOMAINS/Media/HDD/MediaCoreService/HDD - Android S&T,Node path to CDD /Digital Cockpit/Titan IVI/TITAN DOMAINS/Media/CDD/MediaCoreService - Android S&T</a></span>
 
 </div>
 
@@ -292,7 +292,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Release Notes:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://androidhub.harman.com/q/project:harman/packages/MediaCoreService+status:merged+branch:platform-t-mainline+" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://androidhub.harman.com/q/project:harman/packages/MediaCoreService+status:merged+branch:platform-t-mainline+" style="color: #0077b5;">https://androidhub.harman.com/q/project:harman/packages/MediaCoreService+status:merged+branch:platform-t-mainline+</a></span>
 
 </div>
 
@@ -304,7 +304,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Resource Utilization:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://confluence.harman.com/confluence/pages/viewpage.action?pageId=192458850" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://confluence.harman.com/confluence/pages/viewpage.action?pageId=192458850" style="color: #0077b5;">https://confluence.harman.com/confluence/pages/viewpage.action?pageId=192458850</a></span>
 
 </div>
 
@@ -316,7 +316,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Interface provider:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://confluence.harman.com/confluence/pages/viewpage.action?pageId=192458850" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://confluence.harman.com/confluence/pages/viewpage.action?pageId=192458850" style="color: #0077b5;">https://confluence.harman.com/confluence/pages/viewpage.action?pageId=192458850</a></span>
 
 </div>
 
@@ -326,7 +326,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Interface consumed:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href=""harman.iap2 harman.aap harman.carplay harman.onlineplayer HarmanUsbHandlerManager Hlog MediaModeManager OnlinePlayer HarmanAudioManager"" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href=""harman.iap2 harman.aap harman.carplay harman.onlineplayer HarmanUsbHandlerManager Hlog MediaModeManager OnlinePlayer HarmanAudioManager"" style="color: #0077b5;">harman.iap2 harman.aap harman.carplay harman.onlineplayer HarmanUsbHandlerManager Hlog MediaModeManager OnlinePlayer HarmanAudioManager</a></span>
 
 </div>
  
@@ -337,7 +337,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Runtime Dependencies:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href=""IAP2Service AndroidAutoApp CarPlayApp HarmanUsbService MediaModeService HarmanAudioService"" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href=""IAP2Service AndroidAutoApp CarPlayApp HarmanUsbService MediaModeService HarmanAudioService"" style="color: #0077b5;">"IAP2Service AndroidAutoApp CarPlayApp HarmanUsbService MediaModeService HarmanAudioService"</a></span>
 
 </div>
 
@@ -349,7 +349,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Build Time Dependencies:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href=""harman.iap2 harman.aap harman.carplay harman.onlineplayer HarmanUsbHandlerManager Hlog MediaModeManager OnlinePlayer HarmanAudioManager"" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href=""harman.iap2 harman.aap harman.carplay harman.onlineplayer HarmanUsbHandlerManager Hlog MediaModeManager OnlinePlayer HarmanAudioManager"" style="color: #0077b5;">"harman.iap2 harman.aap harman.carplay harman.onlineplayer HarmanUsbHandlerManager Hlog MediaModeManager OnlinePlayer HarmanAudioManager"</a></span>
 
 </div>
 
@@ -366,7 +366,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Repositories:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://androidhub.harman.com/admin/repos/harman/packages/MediaCoreService,general" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://androidhub.harman.com/admin/repos/harman/packages/MediaCoreService,general" style="color: #0077b5;">https://androidhub.harman.com/admin/repos/harman/packages/MediaCoreService,general</a></span>
 
 </div>
 
@@ -402,7 +402,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Build Instructions:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="make MediaCoreService" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="make MediaCoreService" style="color: #0077b5;">make MediaCoreService</a></span>
 
 </div>
 
@@ -424,7 +424,7 @@
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-top: 20px;">
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Activity:</span>
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis;"><a href="https://androidhub.harman.com/q/project:harman/packages/MediaCoreService+status:merged+branch:platform-t-mainline+" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis;"><a href="https://androidhub.harman.com/q/project:harman/packages/MediaCoreService+status:merged+branch:platform-t-mainline+" style="color: #0077b5;">https://androidhub.harman.com/q/project:harman/packages/MediaCoreService+status:merged+branch:platform-t-mainline+</a></span>
 </div>
 
  
@@ -435,7 +435,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Vulnerabilities:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://codesonar-preintegration-idc.harman.com:7340/project/756.html" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://codesonar-preintegration-idc.harman.com:7340/project/756.html" style="color: #0077b5;">https://codesonar-preintegration-idc.harman.com:7340/project/756.html</a></span>
 
 </div>
 
@@ -471,7 +471,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Test Code:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://ss-t.harman.com/xref/platform-t/Android/vendor/harman/packages/MediaCoreService/harmanmediaservice/src/test/" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://ss-t.harman.com/xref/platform-t/Android/vendor/harman/packages/MediaCoreService/harmanmediaservice/src/test/" style="color: #0077b5;">https://ss-t.harman.com/xref/platform-t/Android/vendor/harman/packages/MediaCoreService/harmanmediaservice/src/test/</a></span>
 
 </div>
 
@@ -488,7 +488,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Test Documentations:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://artifactory-mb.harman.com/artifactory/Titan/precheck/platform-s/platform_s_precheck_pipeline/AudiGLToTitanMainline_S/7392/" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://artifactory-mb.harman.com/artifactory/Titan/precheck/platform-s/platform_s_precheck_pipeline/AudiGLToTitanMainline_S/7392/" style="color: #0077b5;">https://artifactory-mb.harman.com/artifactory/Titan/precheck/platform-s/platform_s_precheck_pipeline/AudiGLToTitanMainline_S/7392/</a></span>
 
 </div>
 
