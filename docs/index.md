@@ -256,7 +256,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Requirements:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://alm.harman.com/rm/resources/bc9a6ab2-4d79-4367-9d45-8c75e2a1d81f?oslc_config.context=https%3A%2F%2Falm.harman.com%2Fgc%2Fconfiguration%2F1696" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="https://alm.harman.com/rm/resources/bc9a6ab2-4d79-4367-9d45-8c75e2a1d81f?oslc_config.context=https%3A%2F%2Falm.harman.com%2Fgc%2Fconfiguration%2F1696" style="color: #0077b5;">https://alm.harman.com/rm/resources/bc9a6ab2-4d79-4367-9d45-8c75e2a1d81f?oslc_config.context=https%3A%2F%2Falm.harman.com%2Fgc%2Fconfiguration%2F1696</a></span>
 
 </div>
 
