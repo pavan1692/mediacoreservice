@@ -180,7 +180,7 @@
 
     <span style="color: #7a7d80; font-weight: bold; flex: 0 0 30%;">Usage:</span>
 
-    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="Titan Space4 Audi HCP3 TML BJEV FCA R1" style="color: #0077b5;">Link</a></span>
+    <span style="line-height: 1.5; max-width: 65%; flex: 1 1 auto; word-wrap: break-word; overflow-wrap: break-word; overflow: hidden; text-overflow: ellipsis; "><a href="Titan Space4 Audi HCP3 TML BJEV FCA R1" style="color: #0077b5;">Titan Space4 Audi HCP3 TML BJEV FCA R1</a></span>
 
 </div>
 
